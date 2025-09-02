@@ -1,0 +1,31 @@
+.bkh-colorbox {
+    overflow: hidden;
+    position: relative;
+    margin: .5rem 0 1rem;
+    transition: box-shadow.25 s;
+    border-radius: 10px;
+    color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 20px;
+    font-size: 16px
+}
+
+.bkh-colorbox.blue {
+    background: #03a9f4
+}
+
+.bkh-colorbox.green {
+    background: #4CAF50
+}
+
+.bkh-colorbox.red {
+    background: #F44336
+}
+
+.bkh-colorbox.orange {
+    background: #ff9800
+}
+
+.bkh-colorbox.purple {
+    background: #673ab7
+}
